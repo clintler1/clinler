@@ -1,2 +1,2 @@
 # msi
-gethub tes
+gethub test
