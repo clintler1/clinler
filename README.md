@@ -1,1 +1,1 @@
-gethub test
+gethub tests
